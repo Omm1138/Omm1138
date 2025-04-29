@@ -2,7 +2,7 @@
 
 I specialize in AI-powered business intelligence, predictive maintenance, and industrial process automation. Passionate about leveraging AI and machine learning to drive efficiency, reduce downtime, and optimize manufacturing workflows.
 
-# 
+## 
 🔹 Key Areas of Expertise:
 
  ✅ AI-Powered Business Intelligence & Predictive Analytics
@@ -14,6 +14,5 @@ I specialize in AI-powered business intelligence, predictive maintenance, and in
  ✅ Cloud-Based AI Model Deployment & Data-Driven Decision Making
 
  ##
-📩 Let’s collaborate on AI-driven research and projects!
-AI-driven manufacturing optimization, predictive analytics, and business intelligence projects.
+📩 Let’s collaborate on AI-driven manufacturing optimization, predictive analytics, and business intelligence research and projects!
 
