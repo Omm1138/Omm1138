@@ -1,3 +1,5 @@
+👋 Hi, I’m Debasish Sahoo!
+
 I specialize in AI-powered business intelligence, predictive maintenance, and industrial process automation. Passionate about leveraging AI and machine learning to drive efficiency, reduce downtime, and optimize manufacturing workflows.
 
 # 
