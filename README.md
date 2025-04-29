@@ -15,3 +15,5 @@ I specialize in AI-powered business intelligence, predictive maintenance, and in
 
  ##
 📩 Let’s collaborate on AI-driven research and projects!
+AI-driven manufacturing optimization, predictive analytics, and business intelligence projects.
+
